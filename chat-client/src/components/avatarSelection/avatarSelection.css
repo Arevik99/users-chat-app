@@ -1,0 +1,12 @@
+.avatar-options {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 10px;
+}
+
+img {
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+    cursor: pointer;
+}
